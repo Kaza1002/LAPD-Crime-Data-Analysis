@@ -39,7 +39,8 @@ This project provides end-to-end data analysis and visualization of LAPD crime r
    Open lapd_crime_analysis.ipynb in Jupyter and execute the EDA & export steps.
 4. Upload data to Snowflake
    Use the provided SQL views to create your Snowflake queries. Then use Tableau to connect and visualize.
-📁 Sample Dataset
+
+## Sample Dataset
 lapd_crime_sample.csv contains a random sample of 10,000 rows for demo purposes. The full dataset (1M+ rows) is available upon request or via https://data.gov/.
 
 ## Key Insights
@@ -50,6 +51,6 @@ lapd_crime_sample.csv contains a random sample of 10,000 rows for demo purposes.
 
 ## Contact
 Rithvik Kaza
-📧 rithvik.kaza@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/rithvik-kaza/ 
+rithvik.kaza@gmail.com
+LinkedIn: https://www.linkedin.com/in/rithvik-kaza/ 
 GitHub: https://github.com/rithvikkaza
